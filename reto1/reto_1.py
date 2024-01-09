@@ -1,5 +1,5 @@
 ## ----------------------------------------------------------------
-## Se pueden usar los sigientes usuarios
+## Se pueden usar los sigientes usuarios, la contraseña es el mismo usuario
 ## dfilipputti0
 ## lorviss1
 ## htrownson2
